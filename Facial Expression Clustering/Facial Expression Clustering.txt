@@ -1,0 +1,1 @@
+This folder contains all files relevant to the clustering process of the facial expression feature of the thumbnails
