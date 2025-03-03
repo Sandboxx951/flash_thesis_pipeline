@@ -1,1 +1,5 @@
 This folder contains all files relevant to the clustering process of the facial expression feature of the thumbnails
+
+For openface_script in order to run it change the following:
+thumbnails_folder- the folder containing all of the thumbnails that needed to be extracted
+processed_thumbnails- the folder which contains all of the thumbnails with detected faces along with facial landmarks
